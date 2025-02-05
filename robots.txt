@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://nidhi0805.github.io/sitemap-index.xml
+Host: https://nidhi0805.github.io
