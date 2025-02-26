@@ -88,7 +88,7 @@ const skills = [
     chartData: [
       { name: 'Python', value: 90, color: '#2DCC70' }, // Teal
       { name: 'SQL', value: 85, color: '#33CFFF' }, // Light Blue
-      { name: 'Excel', value: 75, color: '#FFC300' } // Yellow
+      { name: 'R', value: 75, color: '#FFC300' } // Yellow
     ]
   },
   {
